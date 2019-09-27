@@ -1,0 +1,35 @@
+V1
+***************************
+首先创建mysql数据库db_blog,字符集为utf-8，更改resources里面的applicationContext内的数据库连接，如用户名，密码
+***************************
+
+Freemaker教程：http://freemarker.foofun.cn/
+
+1 根据数据库生成单表增删改查代码
+
+2 spring mvc url映射为/ mvc:resource设置
+
+3 使用ueditor
+
+
+4 spring mvc responsebody 日期数据解决
+	http://tramp-zzy.iteye.com/blog/2090330
+
+5 bootstrap设计前端页面
+
+6 jdbctemplate 1:1 1:n映射
+参考：https://simpleflatmapper.org/0203-joins.html
+https://www.cnblogs.com/ssslinppp/p/4954099.html
+simpleflatmapper查询的属性有多时，异常：
+ignorePropertyNotFound
+
+7上传文件
+ <!-- SpringMVC上传文件时，需要配置MultipartResolver处理器 -->
+  获取web根目录
+ 
+ 
+ 
+ 8 使用spring Intecepter作为简单的权限框架
+ 
+ 
+ 9 保存前端分页代码
